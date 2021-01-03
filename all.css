@@ -1,0 +1,81 @@
+body {
+  color: #000 !important;
+}
+a {
+  color: #000 !important;
+}
+
+a:hover {
+  color: #2a8356 !important;
+}
+.btn-outline-success {
+  color: #2a8356 !important;
+  border-color: #2a8356 !important;
+}
+.btn-success {
+  background-color: #2a8356 !important;
+  border-color: #2a8356 !important;
+}
+.btn-outline-success:hover {
+  color: #fff !important;
+  background-color: #2a8356 !important;
+}
+.btn-success:hover {
+  background-color: #549d78 !important;
+}
+.file-btn {
+  background: #edf4ee;
+  width: 195px;
+}
+
+.slider {
+  max-width: 300px;
+  background: #edf4ee;
+  height: 100%;
+  padding: 32px;
+  position: relative;
+}
+
+.user .photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+}
+.user span {
+  background-color: #edf4ee;
+  color: #2a8356;
+}
+p {
+  padding: 0px;
+  margin: 0px;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid #edf4ee;
+}
+.border-color {
+  border-bottom: 1px solid #edf4ee !important ;
+}
+.list-item {
+  display: block;
+  border: 1px solid #cdddcd;
+  padding: 18px;
+}
+.ass-title,
+.ass-time,
+.ass-name,
+.comment {
+  font-size: 12px;
+}
+.ass-name {
+  margin-top: 4px;
+}
+.ass-p {
+  font-weight: bold;
+}
+.content-body {
+  border: 1px solid #cdddcd;
+  border-top: 1px solid #fff;
+}
